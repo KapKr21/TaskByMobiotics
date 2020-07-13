@@ -1,0 +1,6 @@
+framework module Pods_TaskByMobiotics_TaskByMobioticsUITests {
+  umbrella header "Pods-TaskByMobiotics-TaskByMobioticsUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
